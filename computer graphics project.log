@@ -1,0 +1,33 @@
+﻿  Source.cpp
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(49): warning C4305: '+=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(51): warning C4305: '-=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(53): warning C4305: '+=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(55): warning C4305: '-=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(89): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(93): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(153): warning C4305: '+=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(155): warning C4305: '=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(159): warning C4305: '=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(160): warning C4305: '+=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(162): warning C4305: '=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(166): warning C4305: '=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(167): warning C4305: '+=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(169): warning C4305: '=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(173): warning C4305: '=': truncation from 'double' to 'float'
+e:\my files\term 6\compter graphics\computer graphics project\computer graphics project\source.cpp(174): warning C4305: '+=': truncation from 'double' to 'float'
+  computer graphics project.vcxproj -> E:\my files\term 6\compter graphics\computer graphics project\Debug\computer graphics project.exe
+  computer graphics project.vcxproj -> E:\my files\term 6\compter graphics\computer graphics project\Debug\computer graphics project.pdb (Partial PDB)
